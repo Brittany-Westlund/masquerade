@@ -1,0 +1,640 @@
+fileFormatVersion: 2
+guid: 9cea8e1da356eaf46a889ad1bc57bd64
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flamingo sprites_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1106
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ff52fc453fb45408598b88d98f0946
+      internalID: 1122936871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1093
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c03a744f9677e43a4def562c155f32
+      internalID: 928289409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1075
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e440ce863819e4459481ecf0bd007c8
+      internalID: 2079724415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_3
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 688
+        width: 241
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5379b8ee00dc004eb58135627fd6aac
+      internalID: -507248523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_4
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 683
+        width: 241
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0165073c3cdd64d826db662e54c1d8
+      internalID: 570041413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_5
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 701
+        width: 241
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34aa430b5070fe43ac9d0a20cf13e8c
+      internalID: 972330543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_6
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 712
+        width: 241
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc6b861b850fd548bc5ada12bc53a37
+      internalID: -800934677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1016
+        width: 155
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590ff3743a9f6cd40a86debca3e8a776
+      internalID: -1871515752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1045
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496bc97fbf9de58418ff5ac7f551f80c
+      internalID: 916336789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 685
+        width: 246
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461505a6bc1b8c843946d6198101fd2d
+      internalID: 979440984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 861
+        width: 141
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea3f1ef31d8b464083aad6b65ce3e47
+      internalID: 86331860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 766
+        width: 286
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69f547f22eb4b14d9f9f7bab6a7c8ce
+      internalID: -916220018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 569
+        width: 50
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9cba60e1ae35a4a9e49e594b60cfd8
+      internalID: -254492669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_23
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 372
+        width: 246
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd95a570872c874791e4fec02417bf1
+      internalID: 900867732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 543
+        width: 266
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df96bc8c1bc0df04f816d28080bad3a7
+      internalID: -513235949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_28
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 370
+        width: 168
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cf05a15ea643f41a321e7d0c6b10c2
+      internalID: -143130551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_30
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 67
+        width: 242
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f9579afb4d209469c93832356589b7
+      internalID: -1961784252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_31
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 67
+        width: 241
+        height: 501
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1e2703b0b4ba3408080fc469961314
+      internalID: -571211468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_33
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 336
+        width: 54
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f491f0c384abbe249a368319f440fbc6
+      internalID: -653864351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 412
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d49ff11cda6eab40a66e1da67a324b0
+      internalID: -1053716605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 18
+        width: 160
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3ef62087760a846858d220b7093bbb
+      internalID: -15562073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_37
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 19
+        width: 246
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba61c7688a7aea47a736ff405de8ec2
+      internalID: -1299603870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamingo sprites_39
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 15
+        width: 469
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c999bfd03556c84795de86172bccb23
+      internalID: 703112811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Flamingo sprites_0: 1122936871
+      Flamingo sprites_1: 928289409
+      Flamingo sprites_10: 979440984
+      Flamingo sprites_11: 86331860
+      Flamingo sprites_12: -43701470
+      Flamingo sprites_13: 663133632
+      Flamingo sprites_14: 1839804469
+      Flamingo sprites_15: 1735425237
+      Flamingo sprites_16: -97024583
+      Flamingo sprites_17: -916220018
+      Flamingo sprites_18: -1962190572
+      Flamingo sprites_19: -254492669
+      Flamingo sprites_2: 2079724415
+      Flamingo sprites_20: 680409215
+      Flamingo sprites_21: 2102195630
+      Flamingo sprites_22: 204689505
+      Flamingo sprites_23: 900867732
+      Flamingo sprites_24: -513235949
+      Flamingo sprites_25: -930399168
+      Flamingo sprites_26: 1034116215
+      Flamingo sprites_27: 1477947363
+      Flamingo sprites_28: -143130551
+      Flamingo sprites_29: 2087276400
+      Flamingo sprites_3: -507248523
+      Flamingo sprites_30: -1961784252
+      Flamingo sprites_31: -571211468
+      Flamingo sprites_32: -2114523662
+      Flamingo sprites_33: -653864351
+      Flamingo sprites_34: -1941174563
+      Flamingo sprites_35: -1053716605
+      Flamingo sprites_36: -15562073
+      Flamingo sprites_37: -1299603870
+      Flamingo sprites_38: -540734721
+      Flamingo sprites_39: 703112811
+      Flamingo sprites_4: 570041413
+      Flamingo sprites_40: -665225579
+      Flamingo sprites_41: -804939842
+      Flamingo sprites_42: 452274880
+      Flamingo sprites_5: 972330543
+      Flamingo sprites_6: -800934677
+      Flamingo sprites_7: -1871515752
+      Flamingo sprites_8: 916336789
+      Flamingo sprites_9: 239658695
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
